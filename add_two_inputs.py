@@ -3,4 +3,4 @@ def add_two_inputs():
      y = int(input("Enter 2nd integer: "))
      return x+y
 
-print(add_two_inputs())
+add_two_inputs()
